@@ -1,0 +1,6 @@
+framework module CAIRouter {
+  umbrella header "CAIRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
